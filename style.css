@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#contenedor {
+  background-color: lightseagreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  width: 50vw;
+  margin: 0;
+  padding: 0;
+  flex-direction: column;
+}
+
+#resultado {
+  color: #fff;
+}
